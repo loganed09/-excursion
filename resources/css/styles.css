@@ -37,9 +37,10 @@ footer {
 }
 
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 470px) {
     .camp-site {
         max-width: 100%;
         height: auto;
+        display: block;
     }
 }
